@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon of Exam — TGAT2 92",
+  "description": "Gamified RPG exam preparation app for Thai Grade-12 students practicing TGAT2 92 (Critical & Logical Thinking) across Quick 10, Challenge 20, and Mock Exam 70 modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
